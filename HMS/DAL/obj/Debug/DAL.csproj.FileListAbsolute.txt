@@ -1,0 +1,6 @@
+E:\prem\HMS\HMS\DAL\bin\Debug\DAL.dll
+E:\prem\HMS\HMS\DAL\bin\Debug\DAL.pdb
+E:\prem\HMS\HMS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\prem\HMS\HMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\prem\HMS\HMS\DAL\obj\Debug\DAL.dll
+E:\prem\HMS\HMS\DAL\obj\Debug\DAL.pdb
